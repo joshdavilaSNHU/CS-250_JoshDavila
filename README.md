@@ -4,7 +4,7 @@ Sprint Review and Retrospective for ChadaTech's SNHU Travel Project
 
 ChadaTech, a company specializing in custom software design and development, is considering moving from a waterfall development model to an Agile methodology using the Scrum framework. To guide this process, ChadaTech tasked a team with developing an application for SNHU Travel, a travel agency aiming to expand its client base using innovative tools. This paper serves as a Sprint Review and Retrospective, reflecting on the work completed and the effectiveness of the Scrum-Agile approach.
 
-Applying Roles
+**Applying Roles**
 
 Scrum Master: The Scrum Master is in charge of creating daily stand-ups, sprint planning, and retrospectives, making sure the team remains focused and any obstacles were promptly addressed. For example, during the second sprint, the Scrum Master coordinated with external teams to resolve a major integration issue, keeping the project on schedule.
 Product Owner: The Product Owner was responsible for defining and focusing user stories to make sure the development aligned with business goals. By effectively prioritizing features based on customer feedback, the Product Owner ensured the application met user needs, leading to a more user-centric product.
