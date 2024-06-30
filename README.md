@@ -11,17 +11,17 @@ Product Owner: The Product Owner was responsible for defining and focusing user 
 
 Development Team: The Development Team executed the tasks necessary to complete the user stories. Their efforts resulted in the timely delivery of incremental product releases. For example, during the first sprint, the team successfully implemented the core functionality of the travel booking system, demonstrating their efficiency and teamwork.
 
-Completing User Stories
+**Completing User Stories**
 
 The Scrum-Agile approach significantly facilitated the completion of user stories by breaking the project into manageable sprints. Each sprint focused on a set of user stories, allowing the team to build and test features. For example, the team concentrated on developing the core functionality of the travel booking system, including search, filter, and booking features.
 Regular sprint reviews enabled the team to gather feedback and make necessary adjustments, making sure the user stories met the acceptance criteria. This iterative process allowed the team to refine features based on input continuously. The completion of user stories was supported by clear definitions of acceptance criteria, which provided the team with a clear understanding of what needed to be achieved in each sprint.
 
-Handling Interruptions
+**Handling Interruptions**
 
 One of the strengths of the Scrum-Agile methodology is its flexibility in handling interruptions and changes in project direction. During the SNHU Travel project, a sudden requirement to integrate a third-party payment system appeared. The Scrum framework supported this change by allowing the team to re-prioritize the backlog and address the new requirement in the upcoming sprint.
 This made sure the project remained aligned with client needs despite the disruption. The ability to accommodate changes without derailing the entire project is a significant advantage of the Scrum-Agile approach. For example, when the integration with the third-party payment system required additional security features, the team quickly adapted by adjusting their priorities and focusing on implementing these features in the next sprint.
 
-Communication
+**Communication**
 
 Effective communication is a cornerstone of the Scrum-Agile process. Throughout the project, various communication channels were utilized, including daily stand-ups, sprint planning meetings, and sprint reviews. These regular interactions facilitated transparency and collaboration among team members.
 
@@ -29,7 +29,7 @@ Daily Stand-Ups: Team members shared updates on their progress, discussed any ro
 Sprint Planning Meetings: These meetings ensured that everyone was aligned on the goals and tasks for the upcoming sprint. The clear definition of sprint goals and tasks helped the team stay focused and productive.
 Sprint Reviews: These reviews provided an opportunity for the team to demonstrate their work to stakeholders and gather feedback. This iterative feedback loop was crucial in refining and improving the product.
 
-Organizational Tools
+**Organizational Tools**
 
 The use of organizational tools and adherence to Scrum principles were instrumental in the project's success. Tools like Jira were used to track user stories, tasks, and progress. These tools provided a visual representation of the sprint backlog and burndown charts, which helped the team monitor their progress and make data-driven decisions.
 
